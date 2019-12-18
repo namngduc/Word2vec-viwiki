@@ -37,7 +37,7 @@ def word_segment(sent):
     sent = tokenize(sent)
     return sent
 
-path_to_corpus = './text'
+path_to_corpus = './viwiki'
 
 
 f_w = open('./datatrain.txt', 'w', encoding='utf-8')
