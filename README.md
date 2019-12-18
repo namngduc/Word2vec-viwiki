@@ -6,4 +6,4 @@
 python WikiExtractor.py -o viwiki viwiki-20191201-pages-articles-multistream.xml.bz2
 ```
 ## Data processing
-Running  **process_data.py** obtains ***datatrain.txt*** using for build word2vec or fastText model
+Running  **process_data.py** obtain to the file ***datatrain.txt*** using build model word2vec or fastText
