@@ -6,4 +6,4 @@
 python WikiExtractor.py -o viwiki viwiki-20191201-pages-articles-multistream.xml.bz2
 ```
 ## Data processing
-Running  **process_data.py** obtain to the file ***datatrain.txt***
+Running  **process_data.py** obtain to get file ***datatrain.txt***
